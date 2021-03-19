@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amar
+- 👀 I’m interested in programming applications using android and java.
+- 🌱 I’m currently a student at San Diego State University
