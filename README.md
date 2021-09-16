@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Amar Khanshali 🐱‍💻
 
-I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge and opens opportunities to work on new technologies and languages. 
+I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. In addition, I really enjoy building projects that give me opportunities to work on new technologies and languages. 
 
 ## 🚧 Current Project - Check Verification System (CVS)
 
