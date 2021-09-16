@@ -1,15 +1,17 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Amar Khanshali
 
-I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge and open opportunities to work on new technologies and languages. 
+I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge and opens opportunities to work on new technologies and languages. 
 
-## Current Project (Check Verification System)
+## Current Project - Check Verification System (CVS)
 
 This system will make it easier for gas stations that cash checks to save customer information. Using this information, they can give customers NFC cards that reference to their information. As a result, the next time they try to cash a check, all they have to do is tap the NFC reader with their card and their information pops up for the cashier to see.
 
-### Technologies & Languages: 
+This system will have two parts; a Rasberry Pi with an NFC reader and an Android application. The Android application is a backup in case there are issues with the main Rasberry Pi system. The main system will have a interface that connects to the same database being used by the Android application. 
+
+### Technologies & Languages (CVS): 
 - Languages   : Java, Python
-- Technologies: Android Studio
+- Technologies: Android Studio, Firebase (Firestore & Storage)
 - Hardware    : Rasberry Pi
 \
 &nbsp;
