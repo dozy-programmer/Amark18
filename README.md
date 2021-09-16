@@ -1,9 +1,9 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Amar Khanshali
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Amar Khanshali 🐱‍💻
 
 I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge and opens opportunities to work on new technologies and languages. 
 
-## Current Project - Check Verification System (CVS)
+## 🚧 Current Project - Check Verification System (CVS)
 
 This system will make it easier for gas stations that cash checks to save customer information. Using this information, they can give customers NFC cards that reference to their information. As a result, the next time they try to cash a check, all they have to do is tap the NFC reader with their card and their information pops up for the cashier to see.
 
@@ -27,7 +27,7 @@ Here are a few things I've picked up along my learning journey.
 \
 &nbsp;
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amarkhanshali) || [![Website](https://img.shields.io/badge/Website-Check%20out%20my%20website-blue)](https://www.amarkhanshali.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amarkhanshali)    [![Website](https://img.shields.io/badge/Website-Check%20out%20my%20website-blue)](https://www.amarkhanshali.me)
 
 
- or shoot me an [email](mailto:amarkhanshali2015@gmail.com).
+ or shoot me an email ➡️ amarkhanshali2015@gmail.com.
