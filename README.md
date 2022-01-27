@@ -7,12 +7,11 @@ I am a Computer Science student at San Diego State University. I enjoy solving p
 
 This system will make it easier for gas stations that cash checks to save customer information. Using this information, they can give customers NFC cards that reference to their information. As a result, the next time they try to cash a check, all they have to do is tap the NFC reader with their card and their information pops up for the cashier to see.
 
-This system will have two parts; a Rasberry Pi with an NFC reader and an Android application. The Android application is a backup in case there are issues with the main Rasberry Pi system. The main system will have a interface that connects to the same database being used by the Android application. 
+Check Verification System works offline in case of a bad wifi connection or when wifi is temporarily down, ensuring that check cashing remain operational and customer data can be accessed.
 
 ### Technologies & Languages (CVS): 
-- Languages   : Java, Python
+- Languages   : Java
 - Technologies: Android Studio, Firebase (Firestore & Storage)
-- Hardware    : Rasberry Pi
 \
 &nbsp;
 ## ⚡ Tech Stack
