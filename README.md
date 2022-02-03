@@ -7,11 +7,11 @@ I am a Computer Science student at San Diego State University. I enjoy solving p
 
 This system will make it easier for gas stations that cash checks to save customer information. Using this information, they can give customers NFC cards that reference to their information. As a result, the next time they try to cash a check, all they have to do is tap the NFC reader with their card and their information pops up for the cashier to see.
 
-Check Verification System works offline in case of a bad wifi connection or when wifi is temporarily down, ensuring that check cashing remain operational and customer data can be accessed.
+Check Verification System works offline in case of a bad wifi connection or when wifi is temporarily down, ensuring that check cashing remain operational and customer data can be accessed at all times.
 
 ### Technologies & Languages (CVS): 
 - Languages   : Java
-- Technologies: Android Studio, Firebase (Firestore & Storage)
+- Technologies: Android Studio, Firebase (Authentication, Firestore, Storage)
 \
 &nbsp;
 ## ⚡ Tech Stack
