@@ -15,6 +15,7 @@ This project is my own implementation of a dashcam that leverages my limited kno
 ### Technologies & Languages (CVS): 
 - Languages   : Java, Python
 - Technologies: Android Studio, Raspberry Pi 3
+- Other: Wifi-Socket Communication
 \
 &nbsp;
 
