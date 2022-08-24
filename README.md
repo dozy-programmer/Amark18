@@ -27,6 +27,7 @@ Check Verification System works offline in case of a bad wifi connection or when
 ### Technologies & Languages (CVS): 
 - Languages   : Java
 - Technologies: Android Studio, Firebase (Authentication, Firestore, Storage)
+- Other : Near Field Communication (NFC)
 \
 &nbsp;
 ## ⚡ Tech Stack
