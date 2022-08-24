@@ -10,7 +10,7 @@ This project is my own implementation of a dashcam that leverages my limited kno
 -	Utilized a portable battery so that when the car turns off, the dashcam is running off the portable battery, but this failed because there is a split second where it switches from car power to only battery resulting in the Raspberry Pi turning off.
 -	Attempted to send live feed of front and back cameras to android app, but due to software/hardware limitations, the cameras could not be used concurrently to send live feed and facial recognition on the front camera.
   
-[![Website](https://img.shields.io/badge/DashCam-Read%20More...-blue)](https://github.com/Amark18/DashCam/tree/main)
+[![Website](https://img.shields.io/badge/DashCam-Read%20More...-blue)](https://github.com/Amark18/DashCam)
 
 ### Technologies & Languages (CVS): 
 - Languages   : Java, Python
@@ -23,6 +23,8 @@ This project is my own implementation of a dashcam that leverages my limited kno
 This system will make it easier for gas stations that cash checks to save customer information. Using this information, cashiers can easily look up customer information using a phone number or by name. In addition, cashiers can utilize NFC cards so that next time they try to cash a check, all they have to do is tap with their card and their information pops up for the cashier to see.
 
 Check Verification System works offline in case of a bad wifi connection or when wifi is temporarily down, ensuring that check cashing remain operational and customer data can be accessed at all times.
+
+[![Website](https://img.shields.io/badge/CVS-Read%20More...-orange)](https://github.com/Amark18/Oasis-Check-System)
 
 ### Technologies & Languages (CVS): 
 - Languages   : Java
