@@ -47,4 +47,4 @@ Here are a few things I've picked up along my learning journey.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amarkhanshali)    [![Website](https://img.shields.io/badge/Website-Check%20out%20my%20website-blue)](https://www.amarkhanshali.me)
 
 
- or shoot me an email ➡️ amarkhanshali2015@gmail.com.
+ or shoot me an email ➡️ amarkhanshali@gmail.com.
