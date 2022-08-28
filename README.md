@@ -12,7 +12,7 @@ This project is my own implementation of a dashcam that leverages my limited kno
   
 [![Website](https://img.shields.io/badge/DashCam-Read%20More...-blue)](https://github.com/Amark18/DashCam)
 
-### Technologies & Languages (CVS): 
+### Technologies & Languages: 
 - Languages   : Java, Python
 - Technologies: Android Studio, Raspberry Pi 3
 - Other: Wifi-Socket Communication
