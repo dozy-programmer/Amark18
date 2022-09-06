@@ -3,7 +3,7 @@
 
 I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. In addition, I really enjoy building projects that give me opportunities to work on new technologies and languages. 
 
-## 🚧 Current Project - DashCam
+## ✔️ Current Project - DashCam
 
 This project is my own implementation of a dashcam that leverages my limited knowledge of hardware and software. All in all, it would have been cheaper to just buy one from Amazon, but I don’t regret spending the extra money and the many hours debugging. This was a challenging project due to the fact that so variables had to be taken into consideration to ensure it would work properly. Solutions I thought were going to work, just flat out failed. Here are some of the problems I encountered:
 -	Heat sensor to detect driver to know when to turn off Raspberry Pi failed because the range was too limited.
