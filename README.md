@@ -1,7 +1,11 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Amar Khanshali 🐱‍💻
 
-<img src="https://tenor.com/view/rubber-bones-rb-running-man-dance-3d-gif-17657674.gif" align="right" width="20" height="20" /> I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. In addition, I really enjoy building projects that give me opportunities to work on new technologies and languages. 
+<img src="https://tenor.com/view/rubber-bones-rb-running-man-dance-3d-gif-17657674.gif" align="right" width="20" height="20" /> I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me opportunities to work on new technologies and languages. 
+
+**Coming soon:** 
+
+My favorite dessert places in SD...
 
 ## 🚧 In-progress &#8594; Da Bell
 
