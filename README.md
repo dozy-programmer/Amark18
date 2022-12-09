@@ -17,13 +17,13 @@
    somi_somi_description = "fish-shaped waffle cone filled with your choice of filling and topped with soft serve"
    why_go = "great place to go get a quick snack, great environment, and nice employees"
    info = "there are many locations, but I am including a link to the one near me"
-   where = "multiple locations throught SD"
+   where = "multiple locations throughouy SD"
    is_expensive = False
    def navigate_to(place[0], where):
       link = "http://shorturl.at/crvBX"
    
    place = [1] # Sultan Baklava El Cajon
-   somi_somi_description = "desserts, baklava, and drinks"
+   sultan_baklava_description = "desserts, baklava, and drinks"
    why_go = "great place to go with the family, nice atmosphere, and looks very nice"
    maybe = "so so"
    where = "El Cajon"
@@ -32,7 +32,7 @@
       link = "shorturl.at/hvKT6"
       
    place = [2] # Dream Fountain Cafe"
-   somi_somi_description = "desserts"
+   dream_fountain_description = "desserts"
    why_go = "good desserts"
    maybe = "so so"
    where = "El Cajon"                                                                        
