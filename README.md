@@ -3,9 +3,44 @@
 
 <img src="https://tenor.com/view/rubber-bones-rb-running-man-dance-3d-gif-17657674.gif" align="right" width="20" height="20" /> I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me opportunities to work on new technologies and languages. 
 
-**Coming soon:** 
+#### 🚧 In-progress : Amar's Dessert Stamp of Approval in SD:
 
-My favorite dessert places in SD...
+```python
+
+   # this list has taken a lot of time and money to compile
+   # and was made possible by 2 sugar addicts...so enjoy!
+   
+   # list of all places
+   places = ["Somi Somi", "Sultan Baklava El Cajon", "Dream Fountain Cafe"]
+   
+   place = [0] # Somi Somi
+   somi_somi_description = "fish-shaped waffle cone filled with your choice of filling and topped with soft serve"
+   why_go = "great place to go get a quick snack, great environment, and nice employees"
+   info = "there are many locations, but I am including a link to the one near me"
+   where = "multiple locations throught SD"
+   is_expensive = False
+   def navigate_to(place[0], where):
+      link = "http://shorturl.at/crvBX"
+   
+   place = [1] # Sultan Baklava El Cajon
+   somi_somi_description = "desserts, baklava, and drinks"
+   why_go = "great place to go with the family, nice atmosphere, and looks very nice"
+   maybe = "so so"
+   where = "El Cajon"
+   is_expensive = maybe
+   def navigate_to(place[1]):
+      link = "shorturl.at/hvKT6"
+      
+   place = [2] # Dream Fountain Cafe"
+   somi_somi_description = "desserts"
+   why_go = "good desserts"
+   maybe = "so so"
+   where = "El Cajon"                                                                        
+   is_expensive = maybe
+   def navigate_to(place[1], where):
+      link = "shorturl.at/bfqw0"
+      
+```
 
 ## 🚧 In-progress &#8594; Da Bell
 
