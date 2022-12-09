@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Amar Khanshali 🐱‍💻
 
-<img src="https://tenor.com/view/rubber-bones-rb-running-man-dance-3d-gif-17657674.gif" align="right" width="14" height="14" /> I am a Computer Scientist currently attending San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me the opportunity to work on new technologies, languages, and concepts. My interests and skills lie in mobile development and working with IOT devices to solve problems. Some of the projects that I have worked are below.
+<img src="https://tenor.com/view/rubber-bones-rb-running-man-dance-3d-gif-17657674.gif" align="right" width="14" height="14" /> I am a Computer Scientist currently attending San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me the opportunity to work on new technologies, languages, and concepts. My interests and skills lie in mobile development and working with IOT devices to solve problems. Some of the projects that I have worked on are located below.
 
 #### 🚧 In-progress : Amar's Dessert Stamp of Approval in SD:
 
