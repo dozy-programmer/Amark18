@@ -39,7 +39,6 @@ I am a Computer Scientist currently attending San Diego State University. I enjo
    is_expensive = maybe
    def navigate_to(place[2], where):
       link = "shorturl.at/bfqw0"
-      
 ```
 
 ## ✅ Just Completed &#8594; Da Bell
