@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Amar Khanshali 🐱‍💻
 
-<img src="https://tenor.com/view/rubber-bones-rb-running-man-dance-3d-gif-17657674.gif" align="right" width="20" height="20" /> I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me opportunities to work on new technologies and languages. 
+<img src="https://tenor.com/view/rubber-bones-rb-running-man-dance-3d-gif-17657674.gif" align="right" width="14" height="14" /> I am a Computer Science student at San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me opportunities to work on new technologies and languages. 
 
 #### 🚧 In-progress : Amar's Dessert Stamp of Approval in SD:
 
@@ -11,7 +11,7 @@
    # and was made possible by 2 sugar addicts...so enjoy!
    
    # list of all places
-   places = ["Somi Somi", "Sultan Baklava El Cajon", "Dream Fountain Cafe"]
+   places = ["Somi Somi", "Sultan Baklava El Cajon", "Dream Fountain Cafe", ...]
    
    place = [0] # Somi Somi
    somi_somi_description = "fish-shaped waffle cone filled with your choice of filling and topped with soft serve"
@@ -37,12 +37,12 @@
    maybe = "so so"
    where = "El Cajon"                                                                        
    is_expensive = maybe
-   def navigate_to(place[1], where):
+   def navigate_to(place[2], where):
       link = "shorturl.at/bfqw0"
       
 ```
 
-## 🚧 In-progress &#8594; Da Bell
+## ✅ Completed &#8594; Da Bell
 
 This is a project made for CS578 (Wireless Networks) class at San Diego State.
 
