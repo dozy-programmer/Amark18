@@ -19,14 +19,14 @@ I am a Computer Scientist currently attending San Diego State University. I enjo
    place = places[0] # Somi Somi
    somi_somi_description = "fish-shaped waffle cone filled with your choice of filling and topped with soft serve"
    why_go = "great place to go get a quick snack, great environment, and nice employees"
-   my_go_to = "Upside-down Nutella Ah-Boong & Nutella infused Taiyaki"
+   my_go_to = "Upside-down Nutella Ah-Boong & Nutella-Infused Taiyaki"
    info = "there are many locations, but I am including a link to the one near me"
    where = "multiple locations throughout SD"
    is_expensive = False
    # opens google maps and navigates to place
-   # open and paste link in your browser or
-   # if you long-press it, there is an option
-   # to open with google chrome
+   # copy and paste link in your browser or
+   # if you long-press link in Android, there 
+   # is an option to open with google chrome
    def navigate_to(place, where):
        link = "https://shorturl.at/crvBX"
        webbrowser.open(link)
