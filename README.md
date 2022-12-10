@@ -1,44 +1,57 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Amar Khanshali 🐱‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Amar Khanshali 🐱‍💻
 
-I am a Computer Scientist currently attending San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me the opportunity to work on new technologies, languages, and concepts. My interests and skills lie in mobile development and working with IOT devices to solve problems. Some of the projects that I have worked on are located below. 
+I am a Computer Scientist currently attending San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me the opportunity to work on new technologies, languages, and concepts. My interests and skills lie in mobile development and working with IOT (Internet of Things) devices to solve challenging problems. Some of the projects that I have worked on are located below. I have included detailed READMEs and demos for all my projects so check them out!
 
-#### 🚧 In-progress : Amar's Dessert Stamp of Approval in SD:
+#### 🚧 In-progress : Amar's Dessert Stamp of Approval:
 
 ```python
 
+   import webbrowser
+   
+   # Locations are San Diego based
    # this list has taken a lot of time and money to compile
    # and was made possible by 2 sugar addicts...so enjoy!
-   
+
    # list of all places
-   places = ["Somi Somi", "Sultan Baklava El Cajon", "Dream Fountain Cafe", ...]
-   
-   place = [0] # Somi Somi
+   places = ["Somi Somi", "Sultan Baklava El Cajon", "Dream Fountain Cafe", "..."]
+
+   place = places[0] # Somi Somi
    somi_somi_description = "fish-shaped waffle cone filled with your choice of filling and topped with soft serve"
    why_go = "great place to go get a quick snack, great environment, and nice employees"
+   my_go_to = "Upside-down Nutella Ah-Boong & Nutella infused Taiyaki"
    info = "there are many locations, but I am including a link to the one near me"
-   where = "multiple locations throughouy SD"
+   where = "multiple locations throughout SD"
    is_expensive = False
-   def navigate_to(place[0], where):
-      link = "http://shorturl.at/crvBX"
-   
-   place = [1] # Sultan Baklava El Cajon
+   # opens google maps and navigates to place
+   # open and paste link in your browser or
+   # if you long-press it, there is an option
+   # to open with google chrome
+   def navigate_to(place, where):
+       link = "https://shorturl.at/crvBX"
+       webbrowser.open(link)
+
+   place = places[1] # Sultan Baklava El Cajon
    sultan_baklava_description = "desserts, baklava, and drinks"
    why_go = "great place to go with the family, nice atmosphere, and looks very nice"
-   maybe = "so so"
+   my_go_to = "Dulce de Leche Cake"
    where = "El Cajon"
-   is_expensive = maybe
-   def navigate_to(place[1]):
-      link = "shorturl.at/hvKT6"
-      
-   place = [2] # Dream Fountain Cafe"
+   is_expensive = "so so"
+   # opens google maps and navigates to place
+   def navigate_to(place):
+       link = "https://shorturl.at/hvKT6"
+       webbrowser.open(link)
+
+   place = places[2] # Dream Fountain Cafe"
    dream_fountain_description = "desserts"
    why_go = "good desserts"
-   maybe = "so so"
+   my_go_to = "New York Cheesecake with Strawberry"
    where = "El Cajon"                                                                        
-   is_expensive = maybe
-   def navigate_to(place[2], where):
-      link = "shorturl.at/bfqw0"
+   is_expensive = "so so"
+   # opens google maps and navigates to place
+   def navigate_to(place, where):
+       link = "https://shorturl.at/bfqw0"
+       webbrowser.open(link)
 ```
 
 ## ✅ Just Completed &#8594; Da Bell
