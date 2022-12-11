@@ -66,7 +66,7 @@ Da Bell is a custom-made Ring Doorbell alternative that is low-lost and provides
 
 This is a group project made for CS530 (Systems Programming) class at San Diego State.
 
-Gestures for Home Control is gesture-based home control system that was made to be an alternative to Alexa (Amazon's voice based home control). At the moment, Gestures for Home Control implements the following APIs: Nest, Kasa, and Spotify. These APIs are used in conjunction with these gestures in order to link each API to the respective commands. In addition to gestures, Gestures for Home Control also recognizes a circle pattern in order to change thermostat temperature and or volume for an easy and interative way to control your home.
+Gestures for Home Control is gesture-based home control system that was made to be an alternative to Alexa (Amazon's voice based home control). At the moment, Gestures for Home Control implements the following APIs: Nest, Kasa, and Spotify. These APIs are used in conjunction with custom gestures in order to link each API to the respective commands. In addition to gestures, Gestures for Home Control also recognizes a circle pattern in order to change thermostat temperature and or volume for an easy and interative way to control your home.
 
 [![Website](https://img.shields.io/badge/Gestures%20for%20Home%20Control-See%20Code%20and%20Overview-yellow)](https://github.com/Zracano/Gesture-Recognition)
   
