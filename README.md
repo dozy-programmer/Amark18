@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Amar Khanshali 🐱‍💻
 
-I am a Computer Scientist currently attending San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me the opportunity to work on new technologies, languages, and concepts. My interests and skills lie in mobile development and working with IOT (Internet of Things) devices to solve problems. Some of the projects that I have worked on are located below. I have included detailed READMEs and demos for all my projects so check them out!
+I am a Computer Scientist currently attending San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me the opportunity to work on new technologies, languages, and concepts. My interests and skills lie in mobile development and working with IOT (Internet of Things) devices to solve problems. Some of the projects that I have worked on are summarized below. I have included detailed READMEs and demos for all my projects so check them out!
 
 #### 🚧 In-progress : Amar's Dessert Stamp of Approval:
 
