@@ -1,20 +1,22 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Amar Khanshali 🐱‍💻
 
-I am a Computer Scientist currently attending San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me the opportunity to work on new technologies, languages, and concepts. My interests and skills lie in mobile development and working with IOT (Internet of Things) devices to solve problems. Some of the projects that I have worked on are summarized below. I have included detailed READMEs and demos for all my projects so check them out!
+I am a Computer Scientist currently attending San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me the opportunity to work on new technologies, languages, and concepts. My interests and skills lie in mobile development and working with IoT (Internet of Things) devices to solve problems. Some of the projects that I have worked on are summarized below. I have included detailed READMEs and demos for all my projects so check them out!
+
+![](https://komarev.com/ghpvc/?username=amark18&style=for-the-badge)
 
 #### 🚧 In-progress : Amar's Dessert Stamp of Approval:
 
 ```python
 
-   import webbrowser
+   from memory import places
    
-   # Locations are San Diego based
+   # Locations are mostly in San Diego, CA
    # this list has taken a lot of time and money to compile
-   # and was made possible by 2 sugar addicts...so enjoy!
+   # and was made possible by 2 sugar addicts🤪...so enjoy!
 
-   # list of all places
-   places = ["Somi Somi", "Sultan Baklava El Cajon", "Dream Fountain Cafe", "..."]
+   # list of all places Quick-View
+   # places = ["Somi Somi", "Sultan Baklava El Cajon", "Dream Fountain Cafe", "Gelato Paradiso", "..."]
 
    place = places[0] # Somi Somi
    somi_somi_description = "fish-shaped waffle cone filled with your choice of filling and topped with soft serve"
@@ -29,20 +31,21 @@ I am a Computer Scientist currently attending San Diego State University. I enjo
    # is an option to open with google chrome
    def navigate_to(place, where):
        link = "https://shorturl.at/crvBX"
-       webbrowser.open(link)
 
    place = places[1] # Sultan Baklava El Cajon
-   sultan_baklava_description = "desserts, baklava, and drinks"
+   sultan_baklava_description = "desserts, baklava, and coffee"
    why_go = "great place to go with the family, nice atmosphere, and looks very nice"
    my_go_to = "Dulce de Leche Cake"
    where = "El Cajon"
-   is_expensive = "so so"
+   is_expensive = True
    # opens google maps and navigates to place
    def navigate_to(place):
        link = "https://shorturl.at/hvKT6"
-       webbrowser.open(link)
+```
+<details><summary>More Dessert Places</summary>  
 
-   place = places[2] # Dream Fountain Cafe"
+```python
+   place = places[2] # Dream Fountain Cafe
    dream_fountain_description = "desserts"
    why_go = "good desserts"
    my_go_to = "New York Cheesecake with Strawberry"
@@ -51,10 +54,22 @@ I am a Computer Scientist currently attending San Diego State University. I enjo
    # opens google maps and navigates to place
    def navigate_to(place, where):
        link = "https://shorturl.at/bfqw0"
-       webbrowser.open(link)
+       
+   place = places[3] # Gelato Paradiso
+   gelato_paradiso_description = "tasty gelato ice cream"
+   why_go = "great gelato ice cream, good customer service and environment"
+   my_go_to = "usually a gelato shake with whatever ice cream flavor looks tasty and or ice cream"
+   info = "there are many locations, but I am including a link to the one I always go to"
+   where = "La Jolla - UTC Mall"                                                                        
+   is_expensive = False
+   # opens google maps and navigates to place
+   def navigate_to(place, where):
+       link = "shorturl.at/qyZ69"
 ```
+</details>
 
-## ✅ Just Completed &#8594; Da Bell
+
+## ✔ Just Completed &#8594; Da Bell
 
 This is a project made for CS578 (Wireless Networks) class at San Diego State.
 
@@ -80,7 +95,7 @@ Gestures for Home Control is gesture-based home control system that was made to 
 I enjoyed this project as I was able to get a chance to work in a collaborative environment. I was able to get a better understanding of Git and I feel very comfortable with these new skills that I learned. I am confident that these skills will translate nicely to future collaborative projects and in my professional career.
 </details>
 
-## ✅ Completed Project &#8594; DashCam
+## ✔ Completed Project &#8594; DashCam
 
 This project is my own implementation of a dashcam that leverages my limited knowledge of hardware and software. All in all, it would have been cheaper to just buy one from Amazon, but I don’t regret spending the extra money and the many hours debugging. This was a challenging project due to the fact that so variables had to be taken into consideration to ensure it would work properly.
   
@@ -94,7 +109,7 @@ This project is my own implementation of a dashcam that leverages my limited kno
 - Other: Wifi-Socket Communication  
 </details>
 
- ## ☑ Completed Project &#8594; Check Verification System (CVS)
+ ## ✔ Completed Project &#8594; Check Verification System (CVS)
 <details><summary>Read Summary</summary>  
    
 This system will make it easier for gas stations that cash checks to save customer information. Using this information, cashiers can easily look up customer information using a phone number or by name. In addition, cashiers can utilize NFC cards so that next time they try to cash a check, all they have to do is tap with their card and their information pops up for the cashier to see.
