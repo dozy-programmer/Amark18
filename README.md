@@ -101,14 +101,6 @@ This project is my own implementation of a dashcam that leverages my limited kno
   
 [![Website](https://img.shields.io/badge/DashCam-Read%2C%20Analyze%20Code%2C%20%26%20View%20Demo-blue)](https://github.com/Amark18/DashCam)
 
-<details><summary>Read More</summary>  
-
-### Technologies & Languages: 
-- Languages   : Java, Python
-- Technologies: Android Studio, Raspberry Pi 3
-- Other: Wifi-Socket Communication  
-</details>
-
  ## ✔ Completed Project &#8594; Check Verification System (CVS)
 <details><summary>Read Summary</summary>  
    
