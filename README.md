@@ -13,18 +13,17 @@ I am a Computer Scientist currently attending San Diego State University. I enjo
    # and was made possible by 2 sugar addicts🤪...so enjoy!
 
    # list of all places [Quick-View]
-   # places = ["Somi Somi", "Sultan Baklava El Cajon", "Dream Fountain Cafe", "Gelato Paradiso", "..."]
-
-   place = places[0] # Somi Somi
-   somi_somi_description = "fish-shaped waffle cone filled with your choice of filling and topped with soft serve"
-   why_go = "great place to go get a quick snack, great environment, and nice employees"
-   my_go_to = "Upside-down Nutella Ah-Boong & Nutella-Infused Taiyaki"
-   info = "there are many locations, but I am including a link to the one near me"
-   where = "multiple locations throughout SD"
+   # places = ["Gelato Paradiso", "Sultan Baklava El Cajon", "Dream Fountain Cafe", "Somi Somi", "..."]
+   
+   place = places[0] # Gelato Paradiso
+   gelato_paradiso_description = "tasty gelato ice cream"
+   why_go = "great gelato ice cream, good customer service and environment"
+   my_go_to = "usually a gelato shake with whatever ice cream flavor looks tasty and or ice cream"
+   info = "there are many locations, but I am including a link to the one I always go to"
+   where = "La Jolla - UTC Mall"                                                                        
    is_expensive = False
-   # link navigates from your location to respective location
    def navigate_to(place, where):
-       link = "https://shorturl.at/crvBX"
+       link = "shorturl.at/qyZ69"
 ```
 <details><summary>More Dessert Places</summary>  
 
@@ -46,16 +45,17 @@ I am a Computer Scientist currently attending San Diego State University. I enjo
    is_expensive = "so so"
    def navigate_to(place, where):
        link = "https://shorturl.at/bfqw0"
-       
-   place = places[3] # Gelato Paradiso
-   gelato_paradiso_description = "tasty gelato ice cream"
-   why_go = "great gelato ice cream, good customer service and environment"
-   my_go_to = "usually a gelato shake with whatever ice cream flavor looks tasty and or ice cream"
-   info = "there are many locations, but I am including a link to the one I always go to"
-   where = "La Jolla - UTC Mall"                                                                        
+   
+   place = places[3] # Somi Somi
+   somi_somi_description = "fish-shaped waffle cone filled with your choice of filling and topped with soft serve"
+   why_go = "great place to go get a quick snack, great environment, and nice employees"
+   my_go_to = "Upside-down Nutella Ah-Boong & Nutella-Infused Taiyaki"
+   info = "there are many locations, but I am including a link to the one near me"
+   where = "multiple locations throughout SD"
    is_expensive = False
+   # link navigates from your location to respective location
    def navigate_to(place, where):
-       link = "shorturl.at/qyZ69"
+       link = "https://shorturl.at/crvBX"
 ```
 </details>
 
