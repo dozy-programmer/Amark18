@@ -64,7 +64,7 @@ I am a Computer Scientist currently attending San Diego State University. I enjo
 
 Da Bell is a custom-made Ring Doorbell alternative that is low-lost and provides the same basic functionality, but without audio and speaking capabilities.
 
-[![Website](https://img.shields.io/badge/Da%20Bell-See%20Code%20%26%20Overview-yellowgreen)](https://github.com/Amark18/Da-Bell)
+[![Website](https://img.shields.io/badge/Da%20Bell-See%20Code%20%26%20Overview-purple)](https://github.com/Amark18/Da-Bell)
 
 ## Recently Completed &#8594; Gestures for Home Control
 
