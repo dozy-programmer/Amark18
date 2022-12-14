@@ -3,19 +3,16 @@
 
 I am a Computer Scientist currently attending San Diego State University. I enjoy solving problems and working on projects that allow me to expand my knowledge. I also enjoy building projects that give me the opportunity to work on new technologies, languages, and concepts. My interests and skills lie in mobile development and working with IoT (Internet of Things) devices to solve problems. Some of the projects that I have worked on are summarized below. I have included detailed READMEs and demos for all my projects so check them out!
 
-![](https://komarev.com/ghpvc/?username=amark18&style=for-the-badge)
-
 #### 🚧 In-progress : Amar's Dessert Stamp of Approval:
 
 ```python
-
    from memory import places
    
    # Locations are mostly in San Diego, CA
    # this list has taken a lot of time and money to compile
    # and was made possible by 2 sugar addicts🤪...so enjoy!
 
-   # list of all places Quick-View
+   # list of all places [Quick-View]
    # places = ["Somi Somi", "Sultan Baklava El Cajon", "Dream Fountain Cafe", "Gelato Paradiso", "..."]
 
    place = places[0] # Somi Somi
@@ -25,33 +22,28 @@ I am a Computer Scientist currently attending San Diego State University. I enjo
    info = "there are many locations, but I am including a link to the one near me"
    where = "multiple locations throughout SD"
    is_expensive = False
-   # opens google maps and navigates to place
-   # copy and paste link in your browser or
-   # if you long-press link in Android, there 
-   # is an option to open with google chrome
+   # link navigates from your location to respective location
    def navigate_to(place, where):
        link = "https://shorturl.at/crvBX"
+```
+<details><summary>More Dessert Places</summary>  
 
+```python
    place = places[1] # Sultan Baklava El Cajon
    sultan_baklava_description = "desserts, baklava, and coffee"
    why_go = "great place to go with the family, nice atmosphere, and looks very nice"
    my_go_to = "Dulce de Leche Cake"
    where = "El Cajon"
    is_expensive = True
-   # opens google maps and navigates to place
    def navigate_to(place):
        link = "https://shorturl.at/hvKT6"
-```
-<details><summary>More Dessert Places</summary>  
-
-```python
+   
    place = places[2] # Dream Fountain Cafe
    dream_fountain_description = "desserts"
    why_go = "good desserts"
    my_go_to = "New York Cheesecake with Strawberry"
    where = "El Cajon"                                                                        
    is_expensive = "so so"
-   # opens google maps and navigates to place
    def navigate_to(place, where):
        link = "https://shorturl.at/bfqw0"
        
@@ -62,24 +54,19 @@ I am a Computer Scientist currently attending San Diego State University. I enjo
    info = "there are many locations, but I am including a link to the one I always go to"
    where = "La Jolla - UTC Mall"                                                                        
    is_expensive = False
-   # opens google maps and navigates to place
    def navigate_to(place, where):
        link = "shorturl.at/qyZ69"
 ```
 </details>
 
 
-## ✔ Just Completed &#8594; Da Bell
-
-This is a project made for CS578 (Wireless Networks) class at San Diego State.
+## Just Completed &#8594; Da Bell
 
 Da Bell is a custom-made Ring Doorbell alternative that is low-lost and provides the same basic functionality, but without audio and speaking capabilities.
 
 [![Website](https://img.shields.io/badge/Da%20Bell-See%20Code%20%26%20Overview-yellowgreen)](https://github.com/Amark18/Da-Bell)
 
-## ✔ Recently Completed &#8594; Gestures for Home Control
-
-This is a group project made for CS530 (Systems Programming) class at San Diego State.
+## Recently Completed &#8594; Gestures for Home Control
 
 Gestures for Home Control is gesture-based home control system that was made to be an alternative to Alexa (Amazon's voice based home control). At the moment, Gestures for Home Control implements the following APIs: Nest, Kasa, and Spotify. These APIs are used in conjunction with custom gestures in order to link each API to the respective commands. In addition to gestures, Gestures for Home Control also recognizes a circle pattern in order to change thermostat temperature and or volume for an easy and interative way to control your home.
 
@@ -95,13 +82,13 @@ Gestures for Home Control is gesture-based home control system that was made to 
 I enjoyed this project as I was able to get a chance to work in a collaborative environment. I was able to get a better understanding of Git and I feel very comfortable with these new skills that I learned. I am confident that these skills will translate nicely to future collaborative projects and in my professional career.
 </details>
 
-## ✔ Completed Project &#8594; DashCam
+## Completed Project &#8594; DashCam
 
 This project is my own implementation of a dashcam that leverages my limited knowledge of hardware and software. All in all, it would have been cheaper to just buy one from Amazon, but I don’t regret spending the extra money and the many hours debugging. This was a challenging project due to the fact that so variables had to be taken into consideration to ensure it would work properly.
   
 [![Website](https://img.shields.io/badge/DashCam-Read%2C%20Analyze%20Code%2C%20%26%20View%20Demo-blue)](https://github.com/Amark18/DashCam)
 
- ## ✔ Completed Project &#8594; Check Verification System (CVS)
+ ## Completed Project &#8594; Check Verification System (CVS)
 <details><summary>Read Summary</summary>  
    
 This system will make it easier for gas stations that cash checks to save customer information. Using this information, cashiers can easily look up customer information using a phone number or by name. In addition, cashiers can utilize NFC cards so that next time they try to cash a check, all they have to do is tap with their card and their information pops up for the cashier to see.
@@ -135,4 +122,6 @@ Here are a few things I've picked up along my learning journey.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amarkhanshali)    [![Website](https://img.shields.io/badge/Website-Check%20out%20my%20website-blue)](https://www.amarkhanshali.me)
 
 
- or shoot me an email ➡️ akhanshali@gmail.com.
+ or shoot me an email ➡️ akhanshali@gmail.com.  
+ 
+ ![](https://komarev.com/ghpvc/?username=amark18&style=for-the-badge)
