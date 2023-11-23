@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Amar Khanshali 🐱‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Amar 🐱‍💻
 
 I am a Computer Scientist graduate of San Diego State University. I have a passion for problem-solving and continuously expanding my knowledge. I am always enthusiastic about working on projects that enable me to experiment with new technologies, languages, and concepts. I am passionate about mobile development and utilizing IoT devices to address various challenges. Some of the projects that I have worked on are summarized below. I have included detailed READMEs and demos for all my projects so check them out!
 
