@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Amar Khanshali 🐱‍💻
 
-I am a Computer Scientist currently attending San Diego State University. I have a passion for problem-solving and continuously expanding my knowledge. I am always enthusiastic about working on projects that enable me to experiment with new technologies, languages, and concepts. I am passionate about mobile development and utilizing IoT devices to address various challenges. Some of the projects that I have worked on are summarized below. I have included detailed READMEs and demos for all my projects so check them out!
+I am a Computer Scientist graduate of San Diego State University. I have a passion for problem-solving and continuously expanding my knowledge. I am always enthusiastic about working on projects that enable me to experiment with new technologies, languages, and concepts. I am passionate about mobile development and utilizing IoT devices to address various challenges. Some of the projects that I have worked on are summarized below. I have included detailed READMEs and demos for all my projects so check them out!
 
 #### 🚧 In-progress : Amar's Dessert Stamp of Approval:
 
@@ -122,6 +122,6 @@ Here are a few things I've picked up along my learning journey.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amarkhanshali)    [![Website](https://img.shields.io/badge/Website-Check%20out%20my%20website-blue)](https://www.amarkhanshali.me)
 
 
- or shoot me an email ➡️ akhanshali@gmail.com.  
+ or shoot me an email ➡️ amarkhanshali@gmail.com.  
  
  ![](https://komarev.com/ghpvc/?username=amark18&style=for-the-badge)
