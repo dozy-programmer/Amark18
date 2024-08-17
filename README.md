@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Amar 🐱‍💻
 
-I dabble in Android. Some of the projects that I have worked on are summarized below. I have included detailed READMEs and demos for all my projects so check them out!
+I dabble mostly in Android. Some of the projects that I have worked on are summarized below. I have included detailed READMEs and demos for all my projects so check them out!
 
 ## Da Bell
 
